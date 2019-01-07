@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+a,a:link,a:visited,a:hover,a:focus,a:active{
+  all: unset;
+  cursor: pointer;
+}
